@@ -1,6 +1,6 @@
 # Olá, sou a Júlia Apolinario 🖥️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Aolinario&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Apolinario&show_icons=true&theme=dark)
 
 ## Cursando bacharelado em ciências da computação (SPTECH)
 
