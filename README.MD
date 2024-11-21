@@ -11,7 +11,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Apolinario&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Apolinario&layout=donut&bg_color=ffffff&title_color=ff69b4&text_color=8a2be2&border_color=dda0dd&ring_color=ff1493&icon_color=da70d6)
+
 
 ## Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/júlia-apolinario-40598527b)
