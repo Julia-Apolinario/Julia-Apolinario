@@ -20,7 +20,8 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Apolinario&layout=donut&bg_color=141321&title_color=ff3068&text_color=9f9f9f&border_color=141321&ring_color=fe428e&icon_color=f8d847)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Apolinario&theme=dark&layout=donut&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&border_color=30363d&ring_color=bd93f9&icon_color=ff79c6&hide_border=true&custom_title=Linguagens%20Principais)
+
 
 
 
