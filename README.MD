@@ -4,7 +4,8 @@
 
 
 
-## Cursando bacharelado em ciências da computação (SPTECH)
+## 🎓 Cursando Bacharelado em **Ciências da Computação** na [SPTECH](https://www.sptech.school) 🖥️
+
 
 ## Skills
 ![NodeJs](https://img.shields.io/badge/Node.js-6e40c9?style=for-the-badge&logo=node.js&logoColor=ff79c6)
