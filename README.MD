@@ -5,6 +5,8 @@
 
 
 ## 🎓 Cursando Bacharelado em **Ciências da Computação** na [SPTECH](https://www.sptech.school) 🖥️
+## 🎓 Cursando Bacharelado em **<span style="color:#239120">Ciências da Computação</span>** na [<span style="color:#239120">SPTECH</span>](https://www.sptech.school) 🖥️
+
 
 
 ## Skills
