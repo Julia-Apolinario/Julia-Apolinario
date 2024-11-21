@@ -6,18 +6,18 @@
 
 ## 🎓 Cursando Bacharelado em **Ciências da Computação** na [SPTECH](https://www.sptech.school) 🖥️
 
-## 🎓 Cursando Bacharelado em **<span style="color:#239120">Ciências da Computação</span>** na [<span style="color:#239120">SPTECH</span>](https://www.sptech.school) 🖥️
 
 
 
 ## Skills
-![NodeJs](https://img.shields.io/badge/Node.js-6e40c9?style=for-the-badge&logo=node.js&logoColor=ff79c6)
-![JavaScript](https://img.shields.io/badge/JavaScript-8a2be2?style=for-the-badge&logo=javascript&logoColor=ff79c6)
-![MySQL](https://img.shields.io/badge/MySQL-5d3fd3?style=for-the-badge&logo=mysql&logoColor=ff79c6)
-![HTML5](https://img.shields.io/badge/HTML5-7a2a96?style=for-the-badge&logo=html5&logoColor=ff79c6)
-![CSS](https://img.shields.io/badge/CSS-4b0082?&style=for-the-badge&logo=css3&logoColor=ff79c6)
-![Python](https://img.shields.io/badge/Python-663399?style=for-the-badge&logo=python&logoColor=ff79c6)
-![Java](https://img.shields.io/badge/Java-800080?style=for-the-badge&logo=java&logoColor=ff79c6)
+![NodeJs](https://img.shields.io/badge/Node.js-6e40c9?style=for-the-badge&logo=node.js&logoColor=#239120)
+![JavaScript](https://img.shields.io/badge/JavaScript-8a2be2?style=for-the-badge&logo=javascript&logoColor=#239120)
+![MySQL](https://img.shields.io/badge/MySQL-5d3fd3?style=for-the-badge&logo=mysql&logoColor=#239120)
+![HTML5](https://img.shields.io/badge/HTML5-7a2a96?style=for-the-badge&logo=html5&logoColor=#239120)
+![CSS](https://img.shields.io/badge/CSS-4b0082?&style=for-the-badge&logo=css3&logoColor=#239120)
+![Python](https://img.shields.io/badge/Python-663399?style=for-the-badge&logo=python&logoColor=#239120)
+![Java](https://img.shields.io/badge/Java-800080?style=for-the-badge&logo=java&logoColor=#239120)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Apolinario&layout=donut&bg_color=141321&title_color=ff3068&text_color=9f9f9f&border_color=141321&ring_color=fe428e&icon_color=f8d847)
